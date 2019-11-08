@@ -36,7 +36,6 @@ getBestWord:
     used numpy
     returned three words in the order if least integration scores
 
-GoogleDrive link : https://drive.google.com/drive/folders/1HIDDAYiz2XGRjqdSrgV8idkzglvnu4l7?usp=sharing
 
 
 
