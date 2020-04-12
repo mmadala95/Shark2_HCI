@@ -39,5 +39,5 @@
 
 **getBestWord**
 
-    returned three words in the order if least integration scores
+    returned three words in the order of least integration scores
     used numpy
